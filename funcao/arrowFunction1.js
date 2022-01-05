@@ -7,5 +7,8 @@ dobro = (a) =>{
     return 2*a
 }
 
+
+//testeGit
+
 dobro = a => 2 * a //return implicito
 
